@@ -72,6 +72,7 @@ The final reorder probabilities are a weighted average of the outputs from the s
 
 
 ## Requirements
+  - python 2.7
   - lightgbm==2.0.4
   - numpy==1.13.1
   - pandas==0.19.2
