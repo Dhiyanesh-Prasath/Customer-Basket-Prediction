@@ -1,7 +1,3 @@
-# Instacart Market Basket Analysis
-
-My solution for the Instacart Market Basket Analysis competition hosted on Kaggle.
-
 ## The Task
 The dataset is an open-source dataset provided by Instacart ([source](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2))
 
